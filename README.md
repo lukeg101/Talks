@@ -1,11 +1,11 @@
 # Talks
-A repo containing all of the slides for some of the talks I have done (either by myself or with a team) at conferences, hackathons or beyond. Please feel free to reuse the slides if you like them, I don't require attribution although it would be nice. Please source any external resources used if you do (and if I have forgotten to do so)
+A repo containing all of the slides for some of the talks I have done (either by myself or with a team) at conferences, hackathons or beyond. Please feel free to reuse the slides if you like them, I don't require attribution although it would be nice. Please source any external resources used if you do (and if I have forgotten to do so). Descriptions of each are as follows:
 
-* _Arduino Basics_
-* _HackSoc Intro_
-* _HackSoc IntroSem2_
-* _Hacking Philosophy_
-* _Intro to Scala and Spark_
-* _Intro to Scala and Spark for MLE_
-* _HackNotts slides_
-* _HackSoc Elections_
+* _Arduino Basics_: Introductory talk on the basics of Arduino C, the [Arduino](https://www.arduino.cc/) microcontroller and basic electronics. Talk is designed for somebody who has never done programming or hardware before. Talk done for the _HackSoc TechFest_ in October 2015.
+* _HackSoc Intro_: Slides to introduce members to [hacksoc](http://hacksocnotts.co.uk/), talk done for the _HackSoc TechFest_ in October 2015.
+* _HackSoc IntroSem2_: Slides of a similar nature to the previous point for the second _Tech Fest_ run in January 2016.
+* _Hacking Philosophy_: Slides on the hacking Philosophy. Why we hack, and why it might be interpreted wrongly by the wider community. This talk was done for [_HackCon EU 2015_](http://hackcon.eu/), a conference for hackathon organisers.
+* _Intro to Scala and Spark_: TechTalk for _HackSoc_ (November 2015) introducing the language [Scala](http://www.scala-lang.org/), the framework [_Spark_](https://spark.apache.org/) and basics of functional programming.
+* _Intro to Scala and Spark for MLE_: adaption of the talk above, annexed with slides about the [_MLib_](https://spark.apache.org/mllib/) Machine Learning for Spark. This talk was an adaption of the original HackSoc talk for the _Machine Learning_ module at the University of Nottingham. 
+* _HackNotts slides_: Slides for a quick talk I did at one of [_TechNottingham's_](http://www.technottingham.com/) events to introduce HackSoc into the local community and promote 2 of the events we were doing. Namely [_HackNotts_](http://hacknotts.com/) and [_Women In Technology_](http://2016.inspirewit.com/). 
+* _HackSoc Elections_: Slides for the end of year elections for HackSoc. Information here includes changes to the constitution, a summary of the year and information on nominations, hustings and elections. The results of the election can be found [here](http://hacksocnotts.co.uk/2016/03/11/HackSoc-Elections-And-End-Of-Year-Summary.html).
